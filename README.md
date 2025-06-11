@@ -7,9 +7,9 @@ SETUP PARA BAIXAR E INSTALAR O SMART FAROFOTO 3X4 (utilizando o menu de contexto
 	- Caso não tenha instalado, consequentemente, não apareceu o local de instalação do Python da instrução anterior, baixe através desse link: <https://www.python.org/downloads/>. Apenas clique no botão amarelo redondo "Download Python (versão...)". Após baixar o instalador, clique sobre o programa e efetue a instalação padrão.
 
 2. Baixar o ZIP do projeto Smart Farofoto 3x4 no GitHub e extrair para o local indicado
-	I- Acesse o link: <https://github.com/joaolbasso/SmartFarofoto3x4>;
-	II- No botão verde arredondado com a escrita "Code", clique sobre ele e selecione a opção "Download ZIP";
-	III- O navegador irá iniciar o download e descarregar na pasta padrão, muito provavelmente de "Downloads".
+	i- Acesse o link: <https://github.com/joaolbasso/SmartFarofoto3x4>;
+	ii- No botão verde arredondado com a escrita "Code", clique sobre ele e selecione a opção "Download ZIP";
+	iii- O navegador irá iniciar o download e descarregar na pasta padrão, muito provavelmente de "Downloads".
 	IV - Dentro do explorador de arquivos, encontre o arquivo SmartFarofoto3x4-main.zip;
 	V - Clique com o botão direito sobre ele e clique em "Extrair Tudo" e na janela seguinte "Extrair". (esse passo necessita do WinRar ou algum aplicativo de pacotes).
 	VI - Selecione a pasta e extraia esse diretório com "CTRL + X" ou com o botão direito do mouse sobre a pasta selecionando a opção "RECORTAR";
