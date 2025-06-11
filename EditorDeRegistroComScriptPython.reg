@@ -4,4 +4,4 @@ Windows Registry Editor Version 5.00
 @="Gerar Fotos 3x4cm Farofoto"
 
 [HKEY_CLASSES_ROOT\SystemFileAssociations\image\shell\Farofoto 3x4\command]
-@="\"C:\\Users\\farof\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe\" \"C:\\Users\\farof\\OneDrive\\Área de Trabalho\\AutomatizacaoTresporQuatro\\arquivoParaTresPorQuatro.py" \"%1\""
+@="\"[COLE AQUI O CAMINHO DO SEU PYTHON, RESULTADO DO COMANDO "where python" NO PROMPT DE COMANDO]" \"C:\\AutomatizacaoTresporQuatro\\arquivoParaTresPorQuatro.py" \"%1\""
