@@ -1,6 +1,6 @@
-A Smart Farofoto 3x4 automatiza processos manuais na produção e impressão de fotografias 3x4cm através de poucos cliques. O software pode ser acessado pelo menu de contexto do Windows, quando apertamos com o botão direito sobre um arquivo e escolhemos alguma opção. O sistema foi desenvolvido utilizando a linguagem Python com o utilitário OpenCV e Tkinker e classificadores em cascata para detecção de faces. A automação trouxe benefícios ao cotidiano do comércio Loja Farofoto, onde aumentou a eficiência ao tempo de atendimento aos clientes, eliminação de procedimentos manuais pelos funcionários e o menor desgaste de equipamentos eletrônicos removíveis como cartões de memória. 	
-
-SETUP PARA BAIXAR E INSTALAR O SMART FAROFOTO 3X4 (utilizando o menu de contexto do Windows)
+<header>A Smart Farofoto 3x4 automatiza processos manuais na produção e impressão de fotografias 3x4cm através de poucos cliques. O software pode ser acessado pelo menu de contexto do Windows, quando apertamos com o botão direito sobre um arquivo e escolhemos alguma opção. O sistema foi desenvolvido utilizando a linguagem Python com o utilitário OpenCV e Tkinker e classificadores em cascata para detecção de faces. A automação trouxe benefícios ao cotidiano do comércio Loja Farofoto, onde aumentou a eficiência ao tempo de atendimento aos clientes, eliminação de procedimentos manuais pelos funcionários e o menor desgaste de equipamentos eletrônicos removíveis como cartões de memória.</header> 	
+<main>
+<t1><b>SETUP PARA BAIXAR E INSTALAR O SMART FAROFOTO 3X4 (utilizando o menu de contexto do Windows)</b></t1>
 
 1. Baixar ou já ter instalado Python 3.x (de preferência uma versão mais recente).
 	- Para verificar se já há o Python instalado na máquina pode utilizar o comando "where python" no prompt de comando do Windows. Isso irá retornar o caminho absoluto da instalação já realizada do Python, se existir.
@@ -34,5 +34,5 @@ SETUP PARA BAIXAR E INSTALAR O SMART FAROFOTO 3X4 (utilizando o menu de contexto
 		- Selecione o aplicativo de sua preferência e assinale a caixa de relacionamento que aparece ao fim da janela com uma mensagem do tipo "Sempre abrir com esse aplicativo...";
 		- Retorne ao passo 4 e teste novamente a aplicação .
 		- Se o erro persistir é provável que houve falha na edição de registro do Windows do passo 3. Revise os caminhos e nomes dos arquivos. Se quiser e preferir, pode alterar o arquivo "EditorDeRegistroComExecutavel" com o caminho absoluto de onde sua aplicação está localizada.
-
+</main>
 Aproveite a aplicação! :)
