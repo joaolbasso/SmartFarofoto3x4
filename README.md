@@ -28,7 +28,7 @@ SETUP PARA BAIXAR E INSTALAR O SMART FAROFOTO 3X4 (utilizando o menu de contexto
    
 	- Clique com o botão direito sobre um arquivo de imagem, (selecione "Mostrar Mais Opções" (Windows 11)), então aparecerá a opção "Gerar Fotos 3x4cm Farofoto", clique nela e o software será executado. A sua foto recortada aparecerá dentro do mesmo local em que o arquivo selecionado está, dentro de uma pasta chamada "Farofoto_Output"
 
-8. ** Se a aplicação der um erro do tipo "Não há aplicativo padrão para essa tarefa":
+8. Se a aplicação der um erro do tipo "Não há aplicativo padrão para essa tarefa":
    		- Procure um arquivo de imagem, clique com o botão direito sobre ele e vá até "ABRIR COM";
 		- Dentro do menu "ABRIR COM", selecione "ESCOLHER OUTRO APLICATIVO", aparecerá uma lista com vários aplicativos;
 		- Selecione o aplicativo de sua preferência e assinale a caixa de relacionamento que aparece ao fim da janela com uma mensagem do tipo "Sempre abrir com esse aplicativo...";
