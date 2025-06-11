@@ -21,7 +21,7 @@
 
 3. Executando o Editor de Registros do Windows
    
-	- Abra a pasta "SmartFarofoto3x4-main", após isso abra a pasta "SmartFarofoto3x4-main" (isso acontece devido à extração do passo anterior);
+	- Abra a pasta "SmartFarofoto3x4-main"; (**se houver uma pasta com o mesmo nome dentro dessa pasta, recorte o arquivo para o Disco Local (C:), o caminho correto que deve aparecer no caminho de arquivos do seu explorador de arquivos (bordo superior) é: Meu Computador > Disco Local (C:) > SmartFarofoto3x4-main).
 	- Clique sobre o arquivo "EditorDeRegistroComExecutavel" e confirme todas as operações, "Executar" -> "Sim" -> "Sim".
 
 	===== ATENÇÃO!!!!! =====
