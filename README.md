@@ -19,7 +19,7 @@
 	- Selecione a pasta e extraia esse diretório com "CTRL + X" ou com o botão direito do mouse sobre a pasta selecionando a opção "RECORTAR";
 	- Vá para "Este Computador" então para "Disco Local (C:)" e cole o arquivo recortado, pressione "CTRL + V" ou, clique com o botão direito do mouse, e "COLAR". (O local do arquivo é crucial para o funcionamento da aplicação, pois no próximo passo, o editor de registros precisa exatamente do local correto da aplicação dentro de seu computador).
 
-4. Executando o Editor de Registros do Windows
+3. Executando o Editor de Registros do Windows
    
 	- Abra a pasta "SmartFarofoto3x4-main", após isso abra a pasta "SmartFarofoto3x4-main" (isso acontece devido à extração do passo anterior);
 	- Clique sobre o arquivo "EditorDeRegistroComExecutavel" e confirme todas as operações, "Executar" -> "Sim" -> "Sim".
@@ -27,11 +27,11 @@
 	===== ATENÇÃO!!!!! =====
 	ESSA ETAPA É CRUCIAL PARA O FUNCIONAMENTO DA APLICAÇÃO NO MENU DE CONTEXTO DO WINDOWS. Se você extraiu e colou o diretório em outro pasta ou alterou o nome dos arquivos, essa etapa apresentará falhas. Esse arquivo de edição de registros está preparado para executar o código diretamente no "Disco Local (C:)" e com os nomes que foram extraídos do GitHub.
 
-7. Testando a aplicação
+4. Testando a aplicação
    
 	- Clique com o botão direito sobre um arquivo de imagem, (selecione "Mostrar Mais Opções" (Windows 11)), então aparecerá a opção "Gerar Fotos 3x4cm Farofoto", clique nela e o software será executado. A sua foto recortada aparecerá dentro do mesmo local em que o arquivo selecionado está, dentro de uma pasta chamada "Farofoto_Output"
 
- **Se a aplicação der um erro do tipo "Não há aplicativo padrão para essa tarefa":
+ 5. **Se a aplicação der um erro do tipo "Não há aplicativo padrão para essa tarefa":
 	- Procure um arquivo de imagem, clique com o botão direito sobre ele e vá até "ABRIR COM";<br>
 	- Dentro do menu "ABRIR COM", selecione "ESCOLHER OUTRO APLICATIVO", aparecerá uma lista com vários aplicativos;<br>
 	- Selecione o aplicativo de sua preferência e assinale a caixa de relacionamento que aparece ao fim da janela com uma mensagem do tipo "Sempre abrir com esse aplicativo...";<br>
