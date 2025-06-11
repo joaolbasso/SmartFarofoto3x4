@@ -1,4 +1,4 @@
-A Smart Farofoto 3x4 automatiza processos manuais na produção e impressão de fotografias 3x4cm através de poucos cliques. O software pode ser acessado pelo menu de contexto do Windows, quando apertamos com o botão direito sobre um arquivo e escolhemos alguma opção. O sistema foi desenvolvido utilizando a linguagem Python com o utilitário OpenCV e THinker e classificadores em cascata para detecção de faces. A automação trouxe benefícios ao cotidiano do comércio Loja Farofoto, onde aumentou a eficiência ao tempo de atendimento aos clientes, eliminação de procedimentos manuais pelos funcionários e o menor desgaste de equipamentos eletrônicos removíveis como cartões de memória. 	
+A Smart Farofoto 3x4 automatiza processos manuais na produção e impressão de fotografias 3x4cm através de poucos cliques. O software pode ser acessado pelo menu de contexto do Windows, quando apertamos com o botão direito sobre um arquivo e escolhemos alguma opção. O sistema foi desenvolvido utilizando a linguagem Python com o utilitário OpenCV e Tkinker e classificadores em cascata para detecção de faces. A automação trouxe benefícios ao cotidiano do comércio Loja Farofoto, onde aumentou a eficiência ao tempo de atendimento aos clientes, eliminação de procedimentos manuais pelos funcionários e o menor desgaste de equipamentos eletrônicos removíveis como cartões de memória. 	
 
 SETUP PARA BAIXAR E INSTALAR O SMART FAROFOTO 3X4 (utilizando o menu de contexto do Windows)
 
@@ -12,7 +12,7 @@ SETUP PARA BAIXAR E INSTALAR O SMART FAROFOTO 3X4 (utilizando o menu de contexto
 	- No botão verde arredondado com a escrita "Code", clique sobre ele e selecione a opção "Download ZIP";
 	- O navegador irá iniciar o download e descarregar na pasta padrão, muito provavelmente de "Downloads";
 	- Dentro do explorador de arquivos, encontre o arquivo SmartFarofoto3x4-main.zip;
-	- Clique com o botão direito sobre ele e clique em "Extrair Tudo" e na janela seguinte "Extrair". (esse passo necessita do WinRar ou algum aplicativo de pacotes);
+	- Clique com o botão direito sobre ele e clique em "Extrair Tudo" e na janela seguinte "Extrair".
 	- Selecione a pasta e extraia esse diretório com "CTRL + X" ou com o botão direito do mouse sobre a pasta selecionando a opção "RECORTAR";
 	- Vá para "Este Computador" então para "Disco Local (C:)" e cole o arquivo recortado, pressione "CTRL + V" ou, clique com o botão direito do mouse, e "COLAR". (O local do arquivo é crucial para o funcionamento da aplicação, pois no próximo passo, o editor de registros precisa exatamente do local correto da aplicação dentro de seu computador).
 
