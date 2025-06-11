@@ -17,7 +17,7 @@ SETUP PARA BAIXAR E INSTALAR O SMART FAROFOTO 3X4 (utilizando o menu de contexto
 	- Vá para "Este Computador" então para "Disco Local (C:)" e cole o arquivo recortado, pressione "CTRL + V" ou, clique com o botão direito do mouse, e "COLAR". (O local do arquivo é crucial para o funcionamento da aplicação, pois no próximo passo, o editor de registros precisa exatamente do local correto da aplicação dentro de seu computador).
 
 4. Executando o Editor de Registros do Windows
-
+   
 	- Abra a pasta "SmartFarofoto3x4-main", após isso abra a pasta "SmartFarofoto3x4-main" (isso acontece devido à extração do passo anterior);
 	- Clique sobre o arquivo "EditorDeRegistroComExecutavel" e confirme todas as operações, "Executar" -> "Sim" -> "Sim".
 
@@ -26,7 +26,7 @@ SETUP PARA BAIXAR E INSTALAR O SMART FAROFOTO 3X4 (utilizando o menu de contexto
 
 7. Testando a aplicação
    
-	-Clique com o botão direito sobre um arquivo de imagem, (selecione "Mostrar Mais Opções" (Windows 11)), então aparecerá a opção "Gerar Fotos 3x4cm Farofoto", clique nela e o software será executado. A sua foto recortada aparecerá dentro do mesmo local em que o arquivo selecionado está, dentro de uma pasta chamada "Farofoto_Output"
+	- Clique com o botão direito sobre um arquivo de imagem, (selecione "Mostrar Mais Opções" (Windows 11)), então aparecerá a opção "Gerar Fotos 3x4cm Farofoto", clique nela e o software será executado. A sua foto recortada aparecerá dentro do mesmo local em que o arquivo selecionado está, dentro de uma pasta chamada "Farofoto_Output"
 
 	**Se a aplicação der um erro do tipo "Não há aplicativo padrão para essa tarefa"
    		- Procure um arquivo de imagem, clique com o botão direito sobre ele e vá até "ABRIR COM";
