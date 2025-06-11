@@ -4,4 +4,4 @@ Windows Registry Editor Version 5.00
 @="Gerar Fotos 3x4cm Farofoto"
 
 [HKEY_CLASSES_ROOT\SystemFileAssociations\image\shell\Farofoto 3x4\command]
-@="cmd.exe /c start \"\" \"C:\\Users\\farof\\OneDrive\\Área de Trabalho\\AutomatizacaoTresporQuatro\\dist\\arquivoParaTresPorQuatro.exe\" \"%1\""
+@="cmd.exe /c start \"\" \"C:\\AutomatizacaoTresporQuatro\\dist\\arquivoParaTresPorQuatro.exe\" \"%1\""
