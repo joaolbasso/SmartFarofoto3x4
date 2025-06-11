@@ -1,4 +1,5 @@
 <header>A Smart Farofoto 3x4 automatiza processos manuais na produção e impressão de fotografias 3x4cm através de poucos cliques. O software pode ser acessado pelo menu de contexto do Windows, quando apertamos com o botão direito sobre um arquivo e escolhemos alguma opção. O sistema foi desenvolvido utilizando a linguagem Python com o utilitário OpenCV e Tkinker e classificadores em cascata para detecção de faces. A automação trouxe benefícios ao cotidiano do comércio Loja Farofoto, onde aumentou a eficiência ao tempo de atendimento aos clientes, eliminação de procedimentos manuais pelos funcionários e o menor desgaste de equipamentos eletrônicos removíveis como cartões de memória.
+	
 </header> 	
 
 <t1><b>SETUP PARA BAIXAR E INSTALAR O SMART FAROFOTO 3X4 (utilizando o menu de contexto do Windows)</b></t1>
